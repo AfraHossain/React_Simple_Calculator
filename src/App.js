@@ -6,6 +6,7 @@ export default function App() {
         setResult(result.concat(e.target.name));
     }
     const clear = () =>{ 
+        
         setResult("");
 
     }
